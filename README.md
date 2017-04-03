@@ -5,6 +5,13 @@ This is application is made in Play Framework in Java. Using Bootstrap.
 Build the project and launch the app on [http://localhost:9000](http://localhost:9000):
 
 ```
-    cd play-pac4j-java-demo
+    cd combis-hackathon
     bin\activator run
+```
+
+It's important <b>not</b> to use it as:
+
+```
+    cd combis-hackathon\bin
+    activator run
 ```
