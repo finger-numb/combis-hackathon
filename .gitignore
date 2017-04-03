@@ -8,7 +8,6 @@ target
 /RUNNING_PID
 ### PlayFramework template
 # Ignore Play! working directory #
-bin/
 /db
 .eclipse
 /lib/
