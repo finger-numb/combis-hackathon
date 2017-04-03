@@ -1,4 +1,4 @@
-This is application is made in Play Framework in Java. Using Bootstrap.
+This is application is made in Play Framework in Java. Using Bootstrap (responsive).
 
 ## Start and test
 
