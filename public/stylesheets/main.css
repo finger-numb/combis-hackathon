@@ -1,0 +1,54 @@
+body {
+    margin: 0 20px 0 20px;
+    font-family: "Open Sans", sans-serif;
+}
+
+.logo {
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.team {
+    font-size: 2.5em;
+    margin-bottom: 60px;
+    color: #67686a;
+    font-weight: 200;
+}
+
+.line {
+    border-bottom: solid 1px #fccd66;
+}
+
+.profile-picture {
+    height: 220px;
+    width: 200px;
+    border-radius: 200px;
+}
+
+.name {
+    margin: 15px;
+    font-size: 1.4em;
+    color: #2BA4D8;
+    font-weight: bold;
+}
+
+.development {
+    color: #909193;
+    font-style: italic;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+.about {
+    margin-bottom: 15px;
+}
+
+.links {
+    margin-bottom: 50px;
+}
+
+.social-link {
+    margin: 10px;
+}
+
+
+
